@@ -141,12 +141,12 @@
         <English>None</English>
       </Key>
       <Key ID="STR_aceax_option_value_dn_RIS">
-        <Original>Rails</Original>
-        <English>Rails</English>
+        <Original>RIS</Original>
+        <English>RIS</English>
       </Key>
       <Key ID="STR_aceax_option_value_dss_RIS">
-        <Original>Sight Rail</Original>
-        <English>Sight Rail</English>
+        <Original>Rail Interface System</Original>
+        <English>Rail Interface System</English>
       </Key>
       <Key ID="STR_aceax_option_value_dn_SNW">
         <Original>Snow</Original>
