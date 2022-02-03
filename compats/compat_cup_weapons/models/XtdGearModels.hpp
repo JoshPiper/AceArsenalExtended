@@ -34,6 +34,7 @@ class XtdGearModels {
 		#include "czbren2.hpp"
 		#include "g22.hpp"
 		#include "m2010.hpp"
+		#include "m21.hpp"
 	};
 
 	#undef HDR
