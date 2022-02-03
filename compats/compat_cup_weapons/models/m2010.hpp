@@ -3,6 +3,6 @@ class CUP_M2010 {
 	options[] = {"camo"};
 
 	class camo: CUPCamo {
-		values[] = {"GRN", "BLK", "DST"};
+		values[] = {"BLK", "CTRGT", "CTRG", "DST", "UHEX", "WNT", "WDL"};
 	};
 };
