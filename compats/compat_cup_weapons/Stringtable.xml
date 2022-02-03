@@ -15,8 +15,8 @@
         <English>ACR</English>
       </Key>
       <Key ID="STR_aceax_model_dn_CUP_AK100">
-        <Original>AK 10x</Original>
-        <English>AK 10x</English>
+        <Original>AK-10x</Original>
+        <English>AK-10x</English>
       </Key>
       <Key ID="STR_aceax_model_dn_CUP_CZ805">
         <Original>CZ 805</Original>
@@ -55,8 +55,8 @@
         <English>M4A1 SOPMOD</English>
       </Key>
       <Key ID="STR_aceax_model_dn_CUP_AK10">
-        <Original>AK1x</Original>
-        <English>AK1x</English>
+        <Original>AK-1x</Original>
+        <English>AK-1x</English>
       </Key>
     </Container>
   </Package>
