@@ -130,6 +130,10 @@
         <Original>Handguard</Original>
         <English>Handguard</English>
       </Key>
+      <Key ID="STR_aceax_option_dn_CUPStock">
+        <Original>Stock</Original>
+        <English>Stock</English>
+      </Key>
     </Container>
     <Container name="Values">
       <Key ID="STR_aceax_option_value_dn_None">
