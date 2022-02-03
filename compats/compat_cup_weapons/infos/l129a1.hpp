@@ -1,52 +1,52 @@
-class CUP_L129A1_Black {
+class CUP_srifle_L129A1 {
 	model = "CUP_L129A1";
 	camo = "BLK";
 	ugl = "None";
 };
 
-class CUP_L129A1_CTRGArid {
+class CUP_srifle_L129A1_ctrg {
 	model = "CUP_L129A1";
 	camo = "CTRGA";
 	ugl = "None";
 };
 
-class CUP_L129A1_CTRGTropical {
+class CUP_srifle_L129A1_ctrgt {
 	model = "CUP_L129A1";
 	camo = "CTRGT";
 	ugl = "None";
 };
 
-class CUP_L129A1_Desert {
+class CUP_srifle_L129A1_d {
 	model = "CUP_L129A1";
 	camo = "DST";
 	ugl = "None";
 };
 
-class CUP_L129A1_Woodland {
+class CUP_srifle_L129A1_HG_w {
 	model = "CUP_L129A1";
 	camo = "WDL";
 	ugl = "None";
 };
 
-class CUP_L129A1_Black_Foregrip {
+class CUP_srifle_L129A1_HG_ctrg {
 	model = "CUP_L129A1";
 	camo = "BLK";
 	ugl = "FG";
 };
 
-class CUP_L129A1_CTRGArid_Foregrip {
+class CUP_srifle_L129A1_HG {
 	model = "CUP_L129A1";
 	camo = "CTRGA";
 	ugl = "FG";
 };
 
-class CUP_L129A1_CTRGTropical_Foregrip {
+class CUP_srifle_L129A1_HG_ctrgt {
 	model = "CUP_L129A1";
 	camo = "CTRGT";
 	ugl = "FG";
 };
 
-class CUP_L129A1_Desert_Foregrip {
+class CUP_srifle_L129A1_HG_d {
 	model = "CUP_L129A1";
 	camo = "DST";
 	ugl = "FG";

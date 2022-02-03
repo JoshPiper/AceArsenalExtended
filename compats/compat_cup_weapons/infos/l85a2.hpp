@@ -4,13 +4,13 @@ class CUP_L85A2 {
 	ugl = "None";
 };
 
-class CUP_L85A2_RIS {
+class CUP_L85A2_NG {
 	model = "CUP_L85A2";
 	rail = "RIS";
 	ugl = "None";
 };
 
-class CUP_L85A2_Foregrip {
+class CUP_L85A2_G {
 	model = "CUP_L85A2";
 	rail = "None";
 	ugl = "FG";
@@ -19,17 +19,5 @@ class CUP_L85A2_Foregrip {
 class CUP_L85A2_GL {
 	model = "CUP_L85A2";
 	rail = "None";
-	ugl = "L123A2";
-};
-
-class CUP_L85A2_RIS_Foregrip {
-	model = "CUP_L85A2";
-	rail = "RIS";
-	ugl = "FG";
-};
-
-class CUP_L85A2_RIS_GL {
-	model = "CUP_L85A2";
-	rail = "RIS";
 	ugl = "L123A2";
 };

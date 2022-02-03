@@ -1,34 +1,34 @@
-class CUP_M110_Black {
+class CUP_srifle_m110_kac_black {
 	model = "CUP_M110";
 	camo = "BLK";
 	stock = "Standard";
 };
 
-class CUP_M110_Tan {
+class CUP_srifle_m110_kac {
 	model = "CUP_M110";
 	camo = "TAN";
 	stock = "Standard";
 };
 
-class CUP_M110_Woodland {
+class CUP_srifle_m110_kac_woodland {
 	model = "CUP_M110";
 	camo = "WDL";
 	stock = "Standard";
 };
 
-class CUP_M110_Black_PRS {
+class CUP_srifle_M110_black {
 	model = "CUP_M110";
 	camo = "BLK";
 	stock = "PRS";
 };
 
-class CUP_M110_Tan_PRS {
+class CUP_srifle_M110 {
 	model = "CUP_M110";
 	camo = "TAN";
 	stock = "PRS";
 };
 
-class CUP_M110_Woodland_PRS {
+class CUP_srifle_M110_woodland {
 	model = "CUP_M110";
 	camo = "WDL";
 	stock = "PRS";
