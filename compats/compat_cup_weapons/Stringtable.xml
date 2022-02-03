@@ -58,6 +58,50 @@
         <Original>AK-1x</Original>
         <English>AK-1x</English>
       </Key>
+      <Key ID="STR_aceax_model_dn_CUP_Mac10">
+        <Original>MAC-10</Original>
+        <English>MAC-10</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_ASVal">
+        <Original>AS Val</Original>
+        <English>AS Val</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_L115A3">
+        <Original>L115A3</Original>
+        <English>L115A3</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_L129A1">
+        <Original>L129A1</Original>
+        <English>L129A1</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_L85A2">
+        <Original>L85A2</Original>
+        <English>L85A2</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M107">
+        <Original>M107</Original>
+        <English>M107</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M110">
+        <Original>M110</Original>
+        <English>M110</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_L7A2">
+        <Original>L7A2</Original>
+        <English>L7A2</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M3A1">
+        <Original>M3A1</Original>
+        <English>M3A1</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M60E4">
+        <Original>M60E4</Original>
+        <English>M60E4</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_SA58">
+        <Original>SA58 Kelc</Original>
+        <English>SA58 Kelc</English>
+      </Key>
     </Container>
   </Package>
   <Package name="Selections">
