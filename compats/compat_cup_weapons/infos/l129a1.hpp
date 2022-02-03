@@ -22,6 +22,12 @@ class CUP_srifle_L129A1_d {
 	ugl = "None";
 };
 
+class CUP_srifle_L129A1_w {
+	model = "CUP_L129A1";
+	camo = "WDL";
+	ugl = "None";
+};
+
 class CUP_srifle_L129A1_HG_w {
 	model = "CUP_L129A1";
 	camo = "WDL";
