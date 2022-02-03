@@ -420,6 +420,22 @@
         <Original>Urban Hex</Original>
         <English>Urban Hex</English>
       </Key>
+      <Key ID="STR_aceax_option_value_dn_L123A2">
+        <Original>L123A2</Original>
+        <English>L123A2</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_DGREY">
+        <Original>Dark Grey</Original>
+        <English>Dark Grey</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_PRS">
+        <Original>PRS</Original>
+        <English>PRS</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_PRS">
+        <Original>Magpul Precision Rifle / Sniper Stock</Original>
+        <English>Magpul Precision Rifle / Sniper Stock</English>
+      </Key>
     </Container>
   </Package>
 </Project>
