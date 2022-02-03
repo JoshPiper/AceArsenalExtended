@@ -1,13 +1,6 @@
 class CUP_sgun_M1014 {
 	model = "CUP_M1014";
-	lenth = "Standard";
-	ugl = "None";
-	stock = "Standard";
-};
-
-class CUP_sgun_M1014_Entry {
-	model = "CUP_M1014";
-	length = "Entry";
+	length = "Standard";
 	ugl = "None";
 	stock = "Standard";
 };
@@ -24,6 +17,13 @@ class CUP_sgun_M1014_solidstock {
 	length = "Standard";
 	ugl = "None";
 	stock = "Solid";
+};
+
+class CUP_sgun_M1014_Entry {
+	model = "CUP_M1014";
+	length = "Entry";
+	ugl = "None";
+	stock = "Standard";
 };
 
 class CUP_sgun_M1014_Entry_vfg {
