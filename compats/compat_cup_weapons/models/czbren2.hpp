@@ -11,6 +11,6 @@ class CUP_CZBREN2 {
 	};
 
 	class ugl: CUPUGL {
-		values[] = {"None", "G1"}
+		values[] = {"None", "G1"};
 	};
 };
