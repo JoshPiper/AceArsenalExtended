@@ -28,25 +28,3 @@ class CUP_CZ805 {
 		values[] = {"GRY", "BLK", "CYT"};
 	};
 };
-
-class CUP_CZ807 {
-	HDR(CZ807);
-	options[] = {"version", "camo"};
-
-	class version: CUPModel {
-		values[] = {"CZ807" "BREN2"};
-	};
-
-	class camo: CUPCamo {
-		values[] = {"GRY", "BLK", "CYT"};
-	};
-};
-
-// class CUP_CZBREN2 {
-// 	HDR(CZBREN2);
-// 	options[] = {"length", "ugl"};
-
-// 	class length: CUPLength {
-// 		values[] = {""}
-// 	};
-// }
