@@ -56,6 +56,7 @@ class CUPCamo: CamoBase {
 	CAMO(CYT,DEFAULT_COLOR);
 	CAMO(JUNG,DEFAULT_COLOR);
 	CAMO(DGREY,DEFAULT_COLOR);
+	CAMO(HEX,DEFAULT_COLOR);
 
 	#undef CAMO
 	#undef RCAMO
@@ -88,6 +89,16 @@ class CUPModel {
 	DEFD(A1);
 	DEFD(A1G1);
 	DEFD(A2);
+
+	DEF(G36);
+	DEF(G36A3);
+	DEF(G36C);
+	DEF(G36CA3);
+	DEFD(G36E);
+	DEF(G36K);
+	DEFD(G36KSK);
+	DEF(G36KA3);
+	DEFD(MG36);
 };
 
 class CUPCaliber {
@@ -139,6 +150,7 @@ class CUPUGL {
 	DEFD(FlashGrip);
 	DEF(L123A2);
 	DEF(G1);
+	DEF(AG36);
 };
 
 class CUPRail {
@@ -164,6 +176,8 @@ class CUPHandguard {
 	DEF(Quad);
 	DEFD(MOE);
 	DEFD(RC);
+	DEF(Standard);
+	DEF(Wide);
 };
 
 class CUPStock {
