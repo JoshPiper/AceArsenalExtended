@@ -152,6 +152,7 @@ class CUPRail {
 	DEF(Scope);
 	DEF(Rear);
 	DEF(Front);
+	DEF(Both);
 };
 
 class CUPHandguard {

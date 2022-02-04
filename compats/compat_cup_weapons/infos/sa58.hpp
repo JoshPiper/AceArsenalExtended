@@ -15,5 +15,5 @@ class CUP_arifle_SA58_Klec_frontris {
 
 class CUP_arifle_SA58_Klec_ris {
 	model = "CUP_SA58";
-	rail = "RIS";
+	rail = "Both";
 };
