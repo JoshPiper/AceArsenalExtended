@@ -109,6 +109,7 @@ class CUPCaliber {
 	DEFD(Caliber556);
 	DEFD(Caliber68);
 	DEFD(Caliber762);
+	DEFD(Caliber762_39);
 	DEFD(Caliber939);
 };
 
