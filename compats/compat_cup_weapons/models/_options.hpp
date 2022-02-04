@@ -108,6 +108,7 @@ class CUPCaliber {
 
 	DEFD(Caliber556);
 	DEFD(Caliber68);
+	DEFD(Caliber762);
 };
 
 class CUPLength {
