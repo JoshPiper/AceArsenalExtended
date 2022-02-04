@@ -121,6 +121,7 @@ class CUPLength {
 	DEF(Compact);
 	DEF(CQC);
 	DEFD(Entry);
+	DEFD(SV);
 
 	#define INCH(LEN) DEFD(Inches##LEN)
 	#define PINCH(LEN,SUB) DEFD(Inches##LEN##_##SUB)
@@ -149,6 +150,7 @@ class CUPUGL {
 	DEF(AFG);
 	DEF(FG);
 	DEFD(FlashGrip);
+	DEFD(Surefire);
 	DEF(L123A2);
 	DEF(G1);
 	DEF(AG36);
@@ -189,6 +191,8 @@ class CUPStock {
 	DEF(Standard);
 	DEF(Solid);
 	DEFD(PRS);
+	DEF(Wood);
+	DEF(Plastic);
 };
 
 #undef OLBL
