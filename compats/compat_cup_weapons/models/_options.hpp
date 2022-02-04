@@ -109,6 +109,7 @@ class CUPCaliber {
 	DEFD(Caliber556);
 	DEFD(Caliber68);
 	DEFD(Caliber762);
+	DEFD(Caliber939);
 };
 
 class CUPLength {
@@ -181,6 +182,7 @@ class CUPHandguard {
 	DEFD(RC);
 	DEF(Standard);
 	DEF(Wide);
+	DEF(Extended);
 };
 
 class CUPStock {
