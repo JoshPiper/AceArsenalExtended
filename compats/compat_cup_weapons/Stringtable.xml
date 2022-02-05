@@ -560,6 +560,82 @@
         <Original>Extended Barrel</Original>
         <English>Extended Barrel</English>
       </Key>
+      <Key ID="STR_aceax_option_value_dn_FlashGrip">
+        <Original>Grip &amp; Light</Original>
+        <English>Grip &amp; Light</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_FlashGrip">
+        <Original>Grip with Barrel Attached Flashlight</Original>
+        <English>Grip with Barrel Attached Flashlight</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36">
+        <Original>G36</Original>
+        <English>G36</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36A3">
+        <Original>G36A3</Original>
+        <English>G36A3</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36C">
+        <Original>G36C</Original>
+        <English>G36C</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36CA3">
+        <Original>G36CA3</Original>
+        <English>G36CA3</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36E">
+        <Original>G36E</Original>
+        <English>G36E</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_G36E">
+        <Original>Export Variant</Original>
+        <English>Export Variant</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36K">
+        <Original>G36K</Original>
+        <English>G36K</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36KSK">
+        <Original>G36K-KSK</Original>
+        <English>G36K-KSK</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_G36KSK">
+        <Original>G36K Special Forces (KSK) Model</Original>
+        <English>G36K Special Forces (KSK) Model</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_G36KA3">
+        <Original>G36KA3</Original>
+        <English>G36KA3</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_MG36">
+        <Original>MG36</Original>
+        <English>MG36</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_MG36">
+        <Original>SAW / Autorifle Version</Original>
+        <English>SAW / Autorifle Version</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_HEX">
+        <Original>Hex</Original>
+        <English>Hex</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_AG36">
+        <Original>AG36</Original>
+        <English>AG36</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Wide">
+        <Original>Wide</Original>
+        <English>Wide</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_CTRGA">
+        <Original>CTRG Arid</Original>
+        <English>CTRG Arid</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Entry">
+        <Original>Entry</Original>
+        <English>Entry</English>
+      </Key>
     </Container>
   </Package>
 </Project>
