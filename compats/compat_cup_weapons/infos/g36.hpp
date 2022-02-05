@@ -68,7 +68,7 @@ class CUP_arifle_G36A_AG36_RIS {
     camo = "BLK";
     rail = "RIS";
     ugl = "AG36";
-}
+};
 
 class CUP_arifle_G36A_AG36_RIS_camo {
     model = "CUP_G36";
@@ -123,7 +123,7 @@ class CUP_arifle_G36A3_grip_camo {
     g36model = "G36A3";
     camo = "DST";
     rail = "RIS";
-    ugl = "FG":
+    ugl = "FG";
 };
 
 class CUP_arifle_G36A3_grip_hex {
@@ -240,7 +240,7 @@ class CUP_arifle_G36C_VFG_hex {
 
 class CUP_arifle_G36C_VFG_wdl {
     model = "CUP_G36";
-    g36model = "G36C"
+    g36model = "G36C";
     camo = "WDL";
     rail = "RIS";
     ugl = "FG";
@@ -410,7 +410,7 @@ class CUP_arifle_G36K_KSK_AFG_camo {
     model = "CUP_G36";
     g36model = "G36KSK";
     camo = "DST";
-    rail = "RIS"
+    rail = "RIS";
     ugl = "AFG";
 };
 
