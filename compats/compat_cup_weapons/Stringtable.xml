@@ -636,6 +636,38 @@
         <Original>Entry</Original>
         <English>Entry</English>
       </Key>
+      <Key ID="STR_aceax_option_value_dss_Entry">
+        <Original>Short Barrel</Original>
+        <English>Short Barrel</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Solid">
+        <Original>Solid</Original>
+        <English>Solid</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_JUNG">
+        <Original>Jungle</Original>
+        <English>Jungle</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Wood">
+        <Original>Wooden</Original>
+        <English>Wooden</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Plastic">
+        <Original>Plastic</Original>
+        <English>Plastic</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Caliber762_39">
+        <Original>7.62 Soviet</Original>
+        <English>7.62 Soviet</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Caliber762_39">
+        <Original>7.62x39mm</Original>
+        <English>7.62x39mm</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Caliber939">
+        <Original>9.39mm</Original>
+        <English>9.39mm</English>
+      </Key>
     </Container>
   </Package>
 </Project>
