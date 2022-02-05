@@ -111,7 +111,7 @@ class CUPCaliber {
 	DEFD(Caliber68);
 	DEFD(Caliber762);
 	DEFD(Caliber762_39);
-	DEFD(Caliber939);
+	DEF(Caliber939);
 };
 
 class CUPLength {
@@ -178,6 +178,7 @@ class CUPHandguard {
 	changeingame = 0;
 	values[] = {};
 
+	DEF(None);
 	DEFD(Factory);
 	DEF(Quad);
 	DEFD(MOE);
@@ -185,6 +186,7 @@ class CUPHandguard {
 	DEF(Standard);
 	DEF(Wide);
 	DEF(Extended);
+	DEF(Heatguard);
 };
 
 class CUPStock {
