@@ -102,6 +102,74 @@
         <Original>Kelc</Original>
         <English>Kelc</English>
       </Key>
+      <Key ID="STR_aceax_model_dn_CUP_G3A3">
+        <Original>G3A3</Original>
+        <English>G3A3</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_Galil">
+        <Original>Galil ARM</Original>
+        <English>Galil ARM</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_Enfield">
+        <Original>Lee Enfield</Original>
+        <English>Lee Enfield</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MG3">
+        <Original>MG3</Original>
+        <English>MG3</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MK18">
+        <Original>Mk18</Original>
+        <English>Mk18</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MP5A5">
+        <Original>MP5A5</Original>
+        <English>MP5A5</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_P90">
+        <Original>P90</Original>
+        <English>P90</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_PP1901">
+        <Original>PP-19-01</Original>
+        <English>PP-19-01</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_Romat">
+        <Original>Romat</Original>
+        <English>Romat</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_g36">
+        <Original>G36</Original>
+        <English>G36</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_OTs14">
+        <Original>OTs-14</Original>
+        <English>OTs-14</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M1014">
+        <Original>M1014</Original>
+        <English>M1014</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MAG60">
+        <Original>MAG 60.20</Original>
+        <English>MAG 60.20</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MK48">
+        <Original>Mk 48</Original>
+        <English>Mk 48</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MP7A1">
+        <Original>MP7A1</Original>
+        <English>MP7A1</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MK16">
+        <Original>Mk 16</Original>
+        <English>Mk 16</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_MK17">
+        <Original>Mk 17</Original>
+        <English>Mk 17</English>
+      </Key>
     </Container>
   </Package>
   <Package name="Selections">
@@ -435,6 +503,62 @@
       <Key ID="STR_aceax_option_value_dss_PRS">
         <Original>Magpul Precision Rifle / Sniper Stock</Original>
         <English>Magpul Precision Rifle / Sniper Stock</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Caliber762">
+        <Original>7.62 NATO</Original>
+        <English>7.62 NATO</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Caliber762">
+        <Original>7.62x51mm NATO</Original>
+        <English>7.62x51mm NATO</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Rear">
+        <Original>Rear</Original>
+        <English>Rear</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Front">
+        <Original>Front</Original>
+        <English>Front</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Both">
+        <Original>Both</Original>
+        <English>Both</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_GRN">
+        <Original>Green</Original>
+        <English>Green</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Inches14_5">
+        <Original>14.5"</Original>
+        <English>14.5"</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Inches14_5">
+        <Original>14 &amp; 1/2 Inches</Original>
+        <English>14 &amp; 1/2 Inches</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Inches11_3">
+        <Original>11.3"</Original>
+        <English>11.3"</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Inches11_3">
+        <Original>11 &amp; 1/3 Inches</Original>
+        <English>11 &amp; 1/3 Inches</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_Surefire">
+        <Original>Surefire</Original>
+        <English>Surefire</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_Surefire">
+        <Original>Grip &amp; Flashlight</Original>
+        <English>Grip &amp; Flashlight</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dn_SV">
+        <Original>SV</Original>
+        <English>SV</English>
+      </Key>
+      <Key ID="STR_aceax_option_value_dss_SV">
+        <Original>Extended Barrel</Original>
+        <English>Extended Barrel</English>
       </Key>
     </Container>
   </Package>
