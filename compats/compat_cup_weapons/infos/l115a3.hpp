@@ -5,7 +5,7 @@ class CUP_srifle_AWM_blk {
 
 class CUP_srifle_AWM_wdl {
 	model = "CUP_L115A3";
-	camo = "GRN";	
+	camo = "GRN";
 };
 
 class CUP_srifle_AWM_des {
