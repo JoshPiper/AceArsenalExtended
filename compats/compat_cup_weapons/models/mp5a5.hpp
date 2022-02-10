@@ -7,6 +7,6 @@ class CUP_MP5A5 {
     };
 
     class ugl: CUPUGL {
-        values[] = {"AFG", "FG"};
+        values[] = {"None", "AFG", "FG"};
     };
 };
