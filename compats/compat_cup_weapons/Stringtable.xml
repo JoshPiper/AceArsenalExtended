@@ -170,6 +170,22 @@
         <Original>Mk 17</Original>
         <English>Mk 17</English>
       </Key>
+      <Key ID="STR_aceax_model_dn_CUP_G22">
+        <Original>G22</Original>
+        <English>G22</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M21">
+        <Original>M21</Original>
+        <English>M21</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M2010">
+        <Original>M2010</Original>
+        <English>M2010</English>
+      </Key>
+      <Key ID="STR_aceax_model_dn_CUP_M24">
+        <Original>M24</Original>
+        <English>M24</English>
+      </Key>
     </Container>
   </Package>
   <Package name="Selections">
