@@ -688,6 +688,10 @@
         <Original>Heatguard</Original>
         <English>Heatguard</English>
       </Key>
+      <Key ID="STR_aceax_option_value_dn_Extended">
+        <Original>Extended</Original>
+        <English>Extended</English>
+      </Key>
     </Container>
   </Package>
 </Project>
