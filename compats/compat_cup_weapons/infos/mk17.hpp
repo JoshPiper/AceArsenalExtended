@@ -208,21 +208,21 @@ class CUP_arifle_Mk17_STD_EGLM_woodland {
     camo = "WDL";
 };
 
-class CUP_arifle_Mk17_SV {
+class CUP_arifle_Mk20 {
     model = "CUP_MK17";
     length = "SV";
     ugl = "None";
     camo = "TAN";
 };
 
-class CUP_arifle_Mk17_SV_black {
+class CUP_arifle_Mk20_black {
     model = "CUP_MK17";
     length = "SV";
     ugl = "None";
     camo = "BLK";
 };
 
-class CUP_arifle_Mk17_SV_woodland {
+class CUP_arifle_Mk20_woodland {
     model = "CUP_MK17";
     length = "SV";
     ugl = "None";
