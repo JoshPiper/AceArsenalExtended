@@ -1,6 +1,6 @@
 class CUP_srifle_G22_wdl {
 	model = "CUP_G22";
-	camo = "WDL";
+	camo = "GRN";
 };
 
 class CUP_srifle_G22_blk {
