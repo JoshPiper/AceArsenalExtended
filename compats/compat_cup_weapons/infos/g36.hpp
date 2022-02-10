@@ -686,6 +686,14 @@ class CUP_arifle_G36KA3_wdl {
     ugl = "None";
 };
 
+class CUP_arifle_MG36 {
+    model = "CUP_G36";
+    g36model = "MG36";
+    camo = "BLK";
+    rail = "RIS";
+    ugl = "None";
+};
+
 class CUP_arifle_MG36_camo {
     model = "CUP_G36";
     g36model = "MG36";
